@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Code\\Programación\\Pogramas\\AlgsDeOrdenación\\AlgsDeOrdenación.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Code\\MAP\\Grupo07\\AlgsDeOrdenación\\AlgsDeOrdenación.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Code\\Programación\\Pogramas\\AlgsDeOrdenación\\AlgsDeOrdenación.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Code\\MAP\\Grupo07\\AlgsDeOrdenación\\AlgsDeOrdenación.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Code\\Programación\\Pogramas\\AlgsDeOrdenación\\AlgsDeOrdenación.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Code\\MAP\\Grupo07\\AlgsDeOrdenación\\AlgsDeOrdenación.csproj",
         "projectName": "AlgsDeOrdenación",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Code\\Programación\\Pogramas\\AlgsDeOrdenación\\AlgsDeOrdenación.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Code\\MAP\\Grupo07\\AlgsDeOrdenación\\AlgsDeOrdenación.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Code\\Programación\\Pogramas\\AlgsDeOrdenación\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Code\\MAP\\Grupo07\\AlgsDeOrdenación\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

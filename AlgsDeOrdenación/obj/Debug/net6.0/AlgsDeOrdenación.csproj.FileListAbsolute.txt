@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\bin\Debug\net6.0\AlgsDeOrdenación.exe
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\bin\Debug\net6.0\AlgsDeOrdenación.deps.json
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\bin\Debug\net6.0\AlgsDeOrdenación.runtimeconfig.json
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\bin\Debug\net6.0\AlgsDeOrdenación.dll
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\bin\Debug\net6.0\AlgsDeOrdenación.pdb
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\obj\Debug\net6.0\AlgsDeOrdenación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\obj\Debug\net6.0\AlgsDeOrdenación.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\obj\Debug\net6.0\AlgsDeOrdenación.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\obj\Debug\net6.0\AlgsDeOrdenación.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\obj\Debug\net6.0\AlgsDeOrdenación.dll
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\obj\Debug\net6.0\refint\AlgsDeOrdenación.dll
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\obj\Debug\net6.0\AlgsDeOrdenación.pdb
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\obj\Debug\net6.0\AlgsDeOrdenación.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Code\Programación\Pogramas\AlgsDeOrdenación\obj\Debug\net6.0\ref\AlgsDeOrdenación.dll

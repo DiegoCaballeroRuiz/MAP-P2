@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        const int N = 100000;
+        const int N = 100;
         const int min = 0;
         const int max = 10;
 

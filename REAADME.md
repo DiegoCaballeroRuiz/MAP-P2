@@ -1,2 +1,2 @@
 #Resumen de la practica
-Habituarnos al ciclo de trabajo con Git
+Me aburro una barbaridad
